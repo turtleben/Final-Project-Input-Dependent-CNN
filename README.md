@@ -15,6 +15,7 @@
 ### Draw the attention map
 - go to code/main_lab.py and open the function report_TSNE()
 - change the kernel number K and log to True
+- open the function log(net) and comment the function test(net)
 
 ### Run adversarial attack
 - go to code/main_lab.py and open the function adversarial_attack()
